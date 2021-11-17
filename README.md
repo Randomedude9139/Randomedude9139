@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Randomedude9139
 - 👀 I’m interested in Blockchain, AI
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything actually, willing to learn/collab with anything interesting
 - 📫 How to reach me ...
 
 <!---
